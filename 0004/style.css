@@ -1,0 +1,19 @@
+body
+{
+    color: #00FF00;  /* green */
+    background-color: #FFFF00;  /* yellow */
+}
+
+h1
+{
+    /* "color" is the text color */
+    color: #0000FF;  /* blue */
+    background-color: #BEBEBE; /* gray */
+    /* These are the hex codes for color selection. */
+}
+
+p
+{
+    color: #A020F0; /* purple */ 
+    background-color: #00FFFF;  /* cyan */
+}

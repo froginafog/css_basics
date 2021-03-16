@@ -1,0 +1,23 @@
+body
+{
+    /* "color" is the text color */
+    color: #00FF00;  /* green */
+    background-color: #FFFF00;  /* yellow */
+    font-family: Courier; 
+    font-size: 20px;  /* 20 pixels */
+}
+
+h1
+{
+    color: #0000FF;  /* blue */
+    background-color: #BEBEBE; /* gray */
+    font-family: serif;
+    font-size: 40px;  /* 40 pixels */
+}
+
+p
+{
+    color: #A020F0; /* purple */ 
+    background-color: #00FFFF;  /* cyan */
+    font-size: 30px;  /* 30 pixels */
+}
