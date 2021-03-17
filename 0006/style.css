@@ -1,0 +1,32 @@
+body
+{
+    /* "color" is the text color */
+    color: blue;  
+    background-color: green;
+    font-family: Courier; 
+    font-size: 20px;  /* 20 pixels */
+    font-weight: bold;  /* bold, normal, or number (such as 300) */
+    font: normal 16px Arial
+}
+
+.container
+{
+    width: 80%;  /* the "container" contains the box */
+    margin: auto;  /* the margin is "auto" means that the container will be centered in the page */
+                   /* the default margin is left-justified (the container will be put on the left side of the page) */
+}
+
+.box-1
+{
+    background-color: #333;
+    color: #FFF;
+    border-top: 15px red solid;
+    border-right: 10px brown solid;
+    border-bottom: 15px red solid;
+    border-left: 10px brown solid;
+    
+    border-top-style: dotted;
+    border-right-style: solid;
+    border-bottom-style: dashed;
+}
+
