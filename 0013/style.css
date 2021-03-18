@@ -1,0 +1,34 @@
+/* 
+In CSS, we can specify the colors by the following examples:
+rgb(12,34,56) , #FF1234 , hsl(9 80%, 7#0)
+*/
+
+#header1
+{
+    border: 5px solid rgb(47, 101, 250); 
+}
+
+#header2
+{
+    border: 5px solid #f76511; 
+}
+
+#header3
+{
+    border: 5px solid hsl(182, 97%, 65%); 
+}
+
+#p1
+{
+    border: 3px solid hsl(182, 42%, 65%); 
+}
+
+#p2
+{
+    border: 3px solid #944ed6
+}
+
+#p3
+{
+    border: 3px solid hsl(101, 92%, 45%)
+}

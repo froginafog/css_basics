@@ -1,0 +1,40 @@
+body
+{
+    background-color: lightgray;
+}
+
+#header1
+{
+    border: 5px solid rgb(47, 101, 250); 
+    background-color: lawngreen;
+}
+
+#header2
+{
+    border: 5px solid #f76511; 
+    background-color: turquoise;
+}
+
+#header3
+{
+    border: 5px solid hsl(182, 97%, 65%); 
+    background-color: tomato;
+}
+
+#p1
+{
+    border: 3px solid hsl(182, 42%, 65%); 
+    background-color: blueviolet;
+}
+
+#p2
+{
+    border: 3px solid #944ed6;
+    background-color: darkred;
+}
+
+#p3
+{
+    border: 3px solid hsl(101, 92%, 45%);
+    background-color: peru;
+}
